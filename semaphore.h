@@ -1,8 +1,6 @@
 /*
  * -------------------------------------------------------------
  *
- * $Header: /cvs/pthreads-win32/pthreads/semaphore.h,v 1.1.2.1 1998/12/28 23:01:15 rpj Exp $
- *
  * Module: semaphore.h
  *
  * Purpose:
@@ -21,17 +19,6 @@
  *      It is recommended that you compare for zero (0) for success
  *      instead of -1 for failure when checking the status of
  *      these functions.
- *
- * Disclaimer:
- *      This software is provided "as is".
- *
- *      The author makes no warranty or representation, either
- *      express or implied, with respect to this software, its
- *      quality, performance, merchantability, or fitness for a
- *      particular purpose. In no event will the author be
- *      liable for direct, indirect, special, incidental, or
- *      consequential damages arising out of the use or inability
- *      to use the software.
  *
  * -------------------------------------------------------------
  */

@@ -1,8 +1,6 @@
 /*
  * -------------------------------------------------------------
  *
- * $Header: /cvs/pthreads-win32/pthreads/semaphore.c,v 1.1.2.1 1998/12/28 23:01:14 rpj Exp $
- *
  * Module: semaphore.c
  *
  * Purpose:
@@ -43,7 +41,6 @@
 #include <string.h>
 
 #include "semaphore.h"
-
 
 
 int
